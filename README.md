@@ -1,3 +1,5 @@
+![](https://giphy.com/embed/kAnpk0N9Ph3he.gif)
+
 # AdventureWorks
 
 The AdventureWorks dataset is a sample database created by Microsoft to demonstrate how to design and implement a database using Microsoft SQL Server. It is a fictional company that sells bicycles and bicycle-related products, and the database contains information about their products, sales, customers, employees, and more.
