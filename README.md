@@ -1,4 +1,7 @@
-![](https://giphy.com/embed/kAnpk0N9Ph3he.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt2YL3H8a7vPBio/giphy.gif" alt="animated" />
+</p>
+
 
 # AdventureWorks
 
