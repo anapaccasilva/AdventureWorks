@@ -12,6 +12,4 @@ This dataset was used for a cross-disciplinary project in the Business Intellige
 
 # Summary
 
-1. <a href="https://github.com/anapaccasilva/AdventureWorks-Python/blob/main/1.%20EDA_AdventureWorks.ipynb" target="_blank" rel="noreferrer"> Exploratory Data Analysis 
-  </p>
-*Here you will find an exploratory data analysis, with some visualizations for better understanding of the dataset's data*
+1. <a href="https://github.com/anapaccasilva/AdventureWorks-Python/blob/main/1.%20EDA_AdventureWorks.ipynb" target="_blank" rel="noreferrer"/> Exploratory Data Analysis </a>  <br> <sub> Here you will find an exploratory data analysis, with some visualizations for better understanding of the dataset's data. </sub>
